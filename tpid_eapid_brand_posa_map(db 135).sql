@@ -1,0 +1,1 @@
+select top 10 * from OcelotStaging.[dbo].[tpid_eapid_brand_posa_mappings]
